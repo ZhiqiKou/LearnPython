@@ -32,7 +32,7 @@ class MysqlHelper(object):
             self.conn.commit()
             self.close()
         except Exception as e:
-            print(e.message)
+            print(e)
         print('操作完成！')
     def query(self, sql, params):
         '''查询'''
@@ -43,4 +43,4 @@ class MysqlHelper(object):
             self.close()
             return result
         except Exception as e:
-            print(e.message)
+            print(e)
