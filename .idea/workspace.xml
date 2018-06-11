@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="770504c4-3e00-43ba-b5a0-564cd6d79e9e" name="Default" comment="">
       <change beforePath="" afterPath="$PROJECT_DIR$/DBTest/LoginTest.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/DBTest/MySqlHelper.py" afterPath="$PROJECT_DIR$/DBTest/MySqlHelper.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
