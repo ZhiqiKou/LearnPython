@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="770504c4-3e00-43ba-b5a0-564cd6d79e9e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/07_html+css/05_css盒子模型.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/07_html+css/06_盒子尺寸.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,11 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="05_css盒子模型.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="05_css盒子模型.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/07_html+css/05_css盒子模型.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1140">
               <caret line="38" column="28" lean-forward="true" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06_盒子尺寸.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07_html+css/06_盒子尺寸.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="25" column="19" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -74,6 +84,7 @@
         <option value="$PROJECT_DIR$/07_html+css/03_css选择器.html" />
         <option value="$PROJECT_DIR$/07_html+css/04_表格样式.html" />
         <option value="$PROJECT_DIR$/07_html+css/05_css盒子模型.html" />
+        <option value="$PROJECT_DIR$/07_html+css/06_盒子尺寸.html" />
       </list>
     </option>
   </component>
@@ -84,8 +95,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="694" />
-    <option name="y" value="45" />
+    <option name="x" value="720" />
+    <option name="y" value="53" />
     <option name="width" value="1293" />
     <option name="height" value="866" />
   </component>
@@ -163,26 +174,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.05_css盒子模型.html">
-    <configuration name="01_HelliWorld.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/LearnPython/07_html+css/01_HelliWorld.html" />
+  <component name="RunManager" selected="JavaScript Debug.06_盒子尺寸.html">
     <configuration name="02_HTML结构元素.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/LearnPython/07_html+css/02_HTML结构元素.html" />
     <configuration name="03_css选择器.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PythonBasis/07_html+css/03_css选择器.html" />
     <configuration name="04_表格样式.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PythonBasis/07_html+css/04_表格样式.html" />
     <configuration name="05_css盒子模型.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PythonBasis/07_html+css/05_css盒子模型.html" />
+    <configuration name="06_盒子尺寸.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PythonBasis/07_html+css/06_盒子尺寸.html" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.01_HelliWorld.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.02_HTML结构元素.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.03_css选择器.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.04_表格样式.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.05_css盒子模型.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.02_HTML结构元素.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.03_css选择器.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.04_表格样式.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.05_css盒子模型.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.06_盒子尺寸.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.05_css盒子模型.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.04_表格样式.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.03_css选择器.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.02_HTML结构元素.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.01_HelliWorld.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.06_盒子尺寸.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.05_css盒子模型.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.04_表格样式.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.03_css选择器.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.02_HTML结构元素.html" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +223,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="694" y="45" width="1293" height="866" extended-state="0" />
+    <frame x="720" y="53" width="1293" height="866" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928476" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -558,6 +569,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1140">
           <caret line="38" column="28" lean-forward="true" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_html+css/06_盒子尺寸.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="25" column="19" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
           <folding />
         </state>
       </provider>
