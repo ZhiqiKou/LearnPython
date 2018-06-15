@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="770504c4-3e00-43ba-b5a0-564cd6d79e9e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/07_html+css/04_表格样式.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/07_html+css/05_css盒子模型.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="04_表格样式.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/07_html+css/04_表格样式.html">
+      <file leaf-file-name="05_css盒子模型.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07_html+css/05_css盒子模型.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            <state relative-caret-position="1140">
+              <caret line="38" column="28" lean-forward="true" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -73,6 +73,7 @@
         <option value="$PROJECT_DIR$/07_html+css/03_css选择器.py" />
         <option value="$PROJECT_DIR$/07_html+css/03_css选择器.html" />
         <option value="$PROJECT_DIR$/07_html+css/04_表格样式.html" />
+        <option value="$PROJECT_DIR$/07_html+css/05_css盒子模型.html" />
       </list>
     </option>
   </component>
@@ -83,10 +84,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="645" />
-    <option name="y" value="68" />
+    <option name="x" value="694" />
+    <option name="y" value="45" />
     <option name="width" value="1293" />
-    <option name="height" value="864" />
+    <option name="height" value="866" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -162,44 +163,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.04_表格样式.html">
+  <component name="RunManager" selected="JavaScript Debug.05_css盒子模型.html">
     <configuration name="01_HelliWorld.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/LearnPython/07_html+css/01_HelliWorld.html" />
     <configuration name="02_HTML结构元素.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/LearnPython/07_html+css/02_HTML结构元素.html" />
     <configuration name="03_css选择器.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PythonBasis/07_html+css/03_css选择器.html" />
     <configuration name="04_表格样式.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PythonBasis/07_html+css/04_表格样式.html" />
-    <configuration name="MongoDBTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DBTest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonBasis" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DBTest/MongoDBTest.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+    <configuration name="05_css盒子模型.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PythonBasis/07_html+css/05_css盒子模型.html" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.MongoDBTest" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.01_HelliWorld.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.02_HTML结构元素.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.03_css选择器.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.04_表格样式.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.01_HelliWorld.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.02_HTML结构元素.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.03_css选择器.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.04_表格样式.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.05_css盒子模型.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.04_表格样式.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.03_css选择器.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.02_HTML结构元素.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.01_HelliWorld.html" />
-        <item index="4" class="java.lang.String" itemvalue="Python.MongoDBTest" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.05_css盒子模型.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.04_表格样式.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.03_css选择器.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.02_HTML结构元素.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.01_HelliWorld.html" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +212,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="645" y="68" width="1293" height="864" extended-state="0" />
+    <frame x="694" y="45" width="1293" height="866" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928476" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -238,7 +221,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928476" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4124138" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928476" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40957016" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27412814" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -559,6 +542,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="124" column="18" lean-forward="false" selection-start-line="124" selection-start-column="18" selection-end-line="124" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_html+css/05_css盒子模型.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="38" column="28" lean-forward="true" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
           <folding />
         </state>
       </provider>
