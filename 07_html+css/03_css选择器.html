@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>css 选择器</title>
+    <style type="text/css">
+        /*标签选择器*/
+        div{
+            font-size: 20px;
+            color: blue;
+        }
+        /*id选择器，一个id只能对应一个元素，所以这个方法用处不大*/
+        #box{
+            color: violet;
+        }
+
+        /*类选择器*/
+        .ziti{
+            font-family: 华文行楷;
+        }
+
+        /*层级选择器*/
+        .list li{
+            height: 30px;
+        }
+        .list a {
+            text-decoration: none;
+            color: indigo;
+        }
+
+
+        /*组选择器*/
+        .box1,.box2,.box3{
+            font-size: 50px;
+            text-indent: 100px;
+        }
+
+        .box1{
+            color: red;
+        }
+        .box2{
+            color: yellow;
+        }
+        .box3{
+            color: green;
+        }
+
+        /*伪类选择器*/
+        .list a:hover{
+            color: gold;
+            text-decoration: underline;
+        }
+
+        /*伪元素选择器*/
+        .box1:before{
+            content: "在前面的文字 ";
+            color: aqua;
+        }
+         .box2:after{
+            content: " 在后面的文字 ";
+            color: cornflowerblue;
+        }
+
+
+    </style>
+</head>
+<body>
+<div>这是一个div元素</div>
+<div id ="box">这是第二个div元素</div>
+<div class="ziti">这是第三个div</div>
+
+<ul class="list">
+    <li><a href="">新闻标题</a></li>
+    <li><a href="">新闻标题</a></li>
+    <li><a href="">新闻标题</a></li>
+    <li><a href="">新闻标题</a></li>
+    <li><a href="">新闻标题</a></li>
+</ul>
+
+<div class="box1">文字1</div>
+<div class="box2">文字2</div>
+<div class="box3">文字3</div>
+</body>
+</html>
