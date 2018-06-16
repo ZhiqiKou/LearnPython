@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="770504c4-3e00-43ba-b5a0-564cd6d79e9e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/07_html+css/11_列表.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/07_html+css/12_浮动.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/07_html+css/13_浮动文字绕图.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,11 +26,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="11_列表.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="11_列表.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/07_html+css/11_列表.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="257">
               <caret line="29" column="11" lean-forward="false" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="12_浮动.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07_html+css/12_浮动.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="13_浮动文字绕图.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07_html+css/13_浮动文字绕图.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -80,6 +101,8 @@
         <option value="$PROJECT_DIR$/07_html+css/09_margin-top塌陷.html" />
         <option value="$PROJECT_DIR$/07_html+css/10_元素溢出.html" />
         <option value="$PROJECT_DIR$/07_html+css/11_列表.html" />
+        <option value="$PROJECT_DIR$/07_html+css/12_浮动.html" />
+        <option value="$PROJECT_DIR$/07_html+css/13_浮动文字绕图.html" />
       </list>
     </option>
   </component>
@@ -89,7 +112,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="35" />
     <option name="y" value="8" />
     <option name="width" value="1293" />
@@ -169,26 +192,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.11_列表.html">
-    <configuration name="07_新闻标题.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PythonBasis/07_html+css/07_新闻标题.html" />
-    <configuration name="08_垂直margin合并.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PythonBasis/07_html+css/08_垂直margin合并.html" />
+  <component name="RunManager" selected="JavaScript Debug.13_浮动文字绕图.html">
     <configuration name="09_margin-top塌陷.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PythonBasis/07_html+css/09_margin-top塌陷.html" />
     <configuration name="10_元素溢出.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PythonBasis/07_html+css/10_元素溢出.html" />
     <configuration name="11_列表.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/LearnPython/07_html+css/11_列表.html" />
+    <configuration name="12_浮动.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/LearnPython/07_html+css/12_浮动.html" />
+    <configuration name="13_浮动文字绕图.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/LearnPython/07_html+css/13_浮动文字绕图.html" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.07_新闻标题.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.08_垂直margin合并.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.09_margin-top塌陷.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.10_元素溢出.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.11_列表.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.09_margin-top塌陷.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.10_元素溢出.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.11_列表.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.12_浮动.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.13_浮动文字绕图.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.11_列表.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.10_元素溢出.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.09_margin-top塌陷.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.08_垂直margin合并.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.07_新闻标题.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.13_浮动文字绕图.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.12_浮动.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.11_列表.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.10_元素溢出.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.09_margin-top塌陷.html" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +241,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928476" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -282,14 +305,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/07_html+css/02_HTML结构元素.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_html+css/01_HelliWorld.html" />
     <entry file="file://$PROJECT_DIR$/DBTest/MongoDBTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -567,6 +582,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="257">
           <caret line="29" column="11" lean-forward="false" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_html+css/12_浮动.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_html+css/13_浮动文字绕图.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
           <folding />
         </state>
       </provider>
