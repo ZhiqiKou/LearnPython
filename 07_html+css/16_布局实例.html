@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>实例3</title>
+    <style type="text/css">
+        .news_list_con{
+            width: 600px;
+            height: 290px;
+            border: 1px solid #ddd;
+            margin: 50px auto 0;
+            overflow: hidden;
+        }
+
+        .news_list_con h3{
+            height: 50px;
+            width: 560px;
+            border-bottom: 1px solid #ddd;
+            margin: 0 auto;
+        }
+
+        .news_list_con h3 span{
+            display: inline-block;
+            height: 50px;
+            border-bottom: 2px solid red;
+            font: 18px/50px 微软雅黑;
+            color: black;
+            padding: 0px 15px;
+            position: relative;
+        }
+
+        .news_list_con ul{
+            list-style: none;
+            padding: 0;
+            width: 560px;
+            height: 238px;
+            margin: 5px auto 0;
+
+        }
+
+        .news_list_con ul li{
+            height: 38px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .news_list_con ul a{
+            float: left;
+            height: 38px;
+            font: 14px/38px 微软雅黑;
+            text-decoration: none;
+            color: black;
+        }
+
+        .news_list_con ul a:before{
+            content: "· ";
+        }
+        .news_list_con ul a:hover{
+            color: red;
+        }
+        .news_list_con ul span{
+            float: right;
+            height: 38px;
+            font: 14px/38px 微软雅黑;
+            color: black;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="news_list_con">
+        <h3><span>新闻列表</span></h3>
+        <ul>
+            <li><a href="">新闻标题1</a><span>日期</span></li>
+            <li><a href="">新闻标题2</a><span>日期</span></li>
+            <li><a href="">新闻标题3</a><span>日期</span></li>
+            <li><a href="">新闻标题4</a><span>日期</span></li>
+            <li><a href="">新闻标题5</a><span>日期</span></li>
+            <li><a href="">新闻标题6</a><span>日期</span></li>
+        </ul>
+
+    </div>
+</body>
+</html>
